@@ -1,3 +1,3 @@
 #### python util for myself
 
-- pyy-cache: FIFO cache
+- pyy-cache: LRU cache decorator
